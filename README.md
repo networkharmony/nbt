@@ -30,7 +30,7 @@ repositories {
 }
 
 dependencies {
-  implementation("com.github.uinnn:nbt:1.0.1")
+  implementation("com.github.networkharmony:nbt:1.0.2")
 }
 ```
 
